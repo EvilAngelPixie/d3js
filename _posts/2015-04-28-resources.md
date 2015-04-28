@@ -20,3 +20,9 @@ Helpful tools
 * [jsFiddle](http://jsfiddle.net) - In-browser code editor/previewer
 * [CodePen](http://codepen.io/) - Another in-browser code editor/previewer
 * [JSONLint](http://jsonlint.com) - JSON validator and formatter
+* 
+
+Code syntax reference
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla Developers Network
+* 
