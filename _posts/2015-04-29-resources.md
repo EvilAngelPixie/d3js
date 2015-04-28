@@ -3,6 +3,7 @@
 layout: post
 title: Resources
 ---
+
 Official site(s)
 
 * [D3.js Homepage](http://d3js.org) 
