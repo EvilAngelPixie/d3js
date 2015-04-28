@@ -16,4 +16,6 @@ Additional material of interest
 * [How Selections Work](http://bost.ocks.org/mike/selection/)
 
 Helpful tools
+
 *[jsFiddle](http://jsfiddle.net)
+*[JSONLint](http://jsonlint.com)
