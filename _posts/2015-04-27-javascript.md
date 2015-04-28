@@ -17,6 +17,7 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 * American spelling (i.e. center, color).
 * ids are used if you want to refer to a particular element.
 * Use names if you are wanting to submit data via form.
+* Elements can have both ids and names.
 * Class or style attributes make HTML elements pretty. 
 * Classes can also be used to make things selectable in D3.
 * Most D3 visualisations use `<div>` tags to 'place' the D3 elements on the page although function wise, they are quite limited.
