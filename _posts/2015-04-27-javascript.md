@@ -8,7 +8,7 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 #### General Tips
 
 * Try to find a text editor that you like that supports code highlighting, it can make spotting issues much easier.
-* Be aware that markup languages do not handle special characters,< >, apostrophes, or quotation marks elegantly. They generally need some help and that help is often in a [Character Entity Reference](http://dev.w3.org/html5/html-author/charref). (`&name;` version should be sufficient in most cases)
+* Be aware that markup languages do not handle special characters,< >, apostrophes, or quotation marks elegantly. They generally need some help and that help is often in a [Character Entity Reference](http://dev.w3.org/html5/html-author/charref) which you use in your text instead of the problem-character. (`&name;` version should be sufficient in most cases)
 * Be aware that like most programming languages there are 'reserved words' which can't be used for variable names, for example `type`.
  
 #### HTML
@@ -24,7 +24,7 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 
 #### CSS
 
-* Can be included in the `<head>` element, as a linked style sheet or inline as a attribute.
+* Can be included in the `<head>` element, as a linked style sheet or inline as an attribute.
 * Sytax changes slightly depending on which one of these you're using.
 * Also uses American spelling (i.e. center, color).
 * CSS Type Selectors are very important and it's worth trying to figure these out as they are quite powerful.
@@ -52,15 +52,14 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 </tr>
 <tr>
   <td>$("div")</td>
-  <td>All <div> elements"</td>
+  <td>All `<div>` elements"</td>
 </tr>
 <tr>
   <td>$("div,p,svg")</td>
-  <td>All <div>, <p> and <svg> elements"</td>
+  <td>All `<div>`, `<p>` and `<svg>` elements"</td>
 </tr>
 </tbody>
 </table>
-
 
 
 #### SVG
