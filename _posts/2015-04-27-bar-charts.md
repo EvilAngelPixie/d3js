@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Discecting Bar Charts
+title: Dissecting Bar Charts
 ---
 
 Figuring out the Bar Charts examples (there are 3 of them) is a good place to start as they do a pretty good job of taking you through the basics and highlighting the differences between creating charts manually, and harnessing the power of D3.js.
 
 Follow the example and then fire up the [CodePen template](http://codepen.io/mbostock/pen/Jaemg) which provides you with a browser based playground with which to experiment and helpfully separates the code into it's three component elements, the HTML, the CSS and the JavaScript.
 
-Have a play!
+#### Have a play!
 
 In the CSS:
 
