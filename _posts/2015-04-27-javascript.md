@@ -52,7 +52,7 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 </tr>
 <tr>
   <td>$("div")</td>
-  <td>All &lt;div&gt; elements"</td>
+  <td>All &lt;div&gt; elements</td>
 </tr>
 <tr>
   <td>$("div,p,svg")</td>
