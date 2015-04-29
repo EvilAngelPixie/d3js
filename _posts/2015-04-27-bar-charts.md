@@ -9,6 +9,8 @@ Follow the example and then fire up the [CodePen template](http://codepen.io/mbo
 
 #### Have a play!
 
+[Let's Make a Bar Chart](http://bost.ocks.org/mike/bar/)
+
 In the CSS:
 
 * Change the spacing of the bars
