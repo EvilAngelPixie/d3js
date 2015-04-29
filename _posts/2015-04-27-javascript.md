@@ -25,7 +25,7 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 #### CSS
 
 * Can be included in the `<head>` element, as a linked style sheet or inline as an attribute.
-* Sytax changes slightly depending on which one of these you're using.
+* Syntax changes slightly depending on which one of these you're using.
 * Also uses American spelling (i.e. center, color).
 * CSS Type Selectors are very important and it's worth trying to figure these out as they are quite powerful.
 
