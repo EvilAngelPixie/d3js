@@ -8,10 +8,9 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 #### General Tips
 
 * Try to find a text editor that you like that supports code highlighting, it can make spotting issues much easier.
-* Be aware that markup languages do not handle special characters,< >, appostrophies, or quotation marks elegantly. They generally need some help and that help is often in a Character Entity Reference. 
-* Be aware that like most programming languages there are 'reserved words' which can't be used for variable names, for example.
+* Be aware that markup languages do not handle special characters,< >, appostrophies, or quotation marks elegantly. They generally need some help and that help is often in a [Character Entity Reference](http://dev.w3.org/html5/html-author/charref). (`&name;` version should be sufficient in most cases)
+* Be aware that like most programming languages there are 'reserved words' which can't be used for variable names, for example `type`.
  
-
 #### HTML
 
 * Basic structure `<p id="demo" style="text-align:center;color:red">Inner text.</p>`.
@@ -61,6 +60,7 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 </tr>
 </tbody>
 </table>
+
 
 
 #### SVG
