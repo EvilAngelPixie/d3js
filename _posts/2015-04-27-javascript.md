@@ -56,7 +56,7 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 </tr>
 <tr>
   <td>$("div,p,svg")</td>
-  <td>All < div >, < p > and < svg > elements</td>
+  <td>All &lt;div&rt;, &lt;p&rt; and &lt;svg&rt; elements</td>
 </tr>
 </tbody>
 </table>
