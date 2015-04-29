@@ -8,7 +8,8 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 #### General Tips
 
 * Try to find a text editor that you like that supports code highlighting, it can make spotting issues much easier.
-* Be aware that markup languages do not handle special characters,< >, appostropies, or quotation marks elegantly. They generally need some help and that help is often in a Character Entity Reference. 
+* Be aware that markup languages do not handle special characters,< >, appostrophies, or quotation marks elegantly. They generally need some help and that help is often in a Character Entity Reference. 
+* Be aware that like most programming languages there are 'reserved words' which can't be used for variable names, for example.
  
 
 #### HTML
@@ -31,8 +32,39 @@ Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon tha
 
 #### JavaScript
 
+* Selectors:
+
+<table>
+<thead>
+<th>Selector</th><th>Selects</th>
+</thead>
+<tbody>
+<tr>
+  <td>$("#bob")</td>
+  <td>The element with id="bob"</td>
+</tr>
+<tr>
+  <td>$(".pink")</td>
+  <td>All elements with class="pink"</td>
+</tr>
+<tr>
+  <td>$(".pink,.blue")</td>
+  <td>All elements with class="pink" or class="blue"</td>
+</tr>
+<tr>
+  <td>$("div")</td>
+  <td>All <div> elements"</td>
+</tr>
+<tr>
+  <td>$("div,p,svg")</td>
+  <td>All <div>, <p> and <svg> elements"</td>
+</tr>
+</tbody>
+</table>
+
 
 #### SVG
+
 * Use `text-anchor: middle` to centre text in an SVG text element (`start` and `end` are the other options).
 
 #### General Terms & Concepts
