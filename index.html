@@ -20,13 +20,13 @@ title: Home
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
+  {% if paginator.previous_page %}
     <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.next_page}}">Next</a>
   {% else %}
     <span class="pagination-item newer">Next</span>
   {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 7 %}
+  {% if paginator.next_page %}
+    {% if paginator.next == 7 %}
       <a class="pagination-item older" href="{{ site.baseurl }}">Previous</a>
     {% else %}
       <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.previous_page}}">Previous</a>
