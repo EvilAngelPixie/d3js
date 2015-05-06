@@ -9,7 +9,10 @@
   color: white;
 }
 </style>
+</head>
+<body>
 <script src="http://d3js.org/d3.v3.min.js"  charset="utf-8"></script>
+<div class="chart"></div>
 <script>
 var data = [4, 8, 15, 16, 23, 42];
 
@@ -25,11 +28,6 @@ d3.select(".chart")
     .style("width", function(d) { return x(d) + "px"; })
 .style("background-color", function(d) {return (d > 15 ? "green" : "red")})
     .text(function(d) { return d; });
-
 </script>
-</head>
-<body>
-<div class="chart"></div>
 </body>
 </html>
-
