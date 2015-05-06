@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts reversed limit: 6 %}
+  {% for post in paginator.posts reversed limit:6 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
