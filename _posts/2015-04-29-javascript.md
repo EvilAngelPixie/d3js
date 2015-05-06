@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Need-to-Know Code 
+title: The Cheatsheet 
 ---
 
 Here are a few aspects of HTML, CSS, JavaScript, SVG and general code-jargon that may be of assistance, even if it's just helping with terms and concepts to Google.
