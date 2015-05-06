@@ -11,7 +11,7 @@ title:            D3.js
 tagline:          'The Hacker Within Guide'
 description:      'Week 3 of <a href="http://thehackerwithin.github.io/swinburne/" target="_blank">The Hacker Within, Swinburne</a> will be looking at the basics that you will need to know in order to get started with <a href="http://d3js.org" target="_black">D3.js</a> and create awesome visualisations for your projects.  Made by <a href="https://twitter.com/evilangelpixie" target="_blank">@EvilAngelPixie</a>'
 url:              https://github.com/evilangelpixie/d3js
-baseurl:          http://evilangelpixie.github.io/d3js/
+baseurl:          /d3js/
 
 author:
   name:           'Samara Neilson'
